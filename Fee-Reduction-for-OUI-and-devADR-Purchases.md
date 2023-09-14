@@ -17,7 +17,7 @@ To make the Helium IoT network more accessible to a broader range of developers,
 - **Growth**: A higher number of developers and LNS providers will stimulate innovation, drive network adoption, and enhance the overall development within the ecosystem.
 
 ## 4. Potential Drawbacks
-- **Revenue Loss**: The Helium Foundation may experience a reduction in revenue due to the lower fees. However, this short-term loss can be counterbalanced by the potential for a more vibrant, utilized, and expanded network, leading to increased long-term gains.
+- **Revenue Loss**: The Helium Network may experience a reduction in DC burn due to the lower fees. However, this short-term loss can be counterbalanced by the potential for a more vibrant, utilized, and expanded network, leading to increased long-term gains.
 
 ## 5. Implementation
 Upon acceptance of this HIP, a grace period of 60 days will be provided to the Helium Foundation to adjust the fee structure and make necessary technical modifications to the purchasing system.
