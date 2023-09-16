@@ -26,12 +26,11 @@ As the Helium network expands, there's a pronounced need for mechanisms to authe
 1. **Initialization**: All hotspots will start with a trust score of 0 upon implementation.
 2. **Skyhook WiFi Verification**: Hotspots can raise their trust score by 0.25 by validating their position through Skyhook WiFi.
 3. **Secure Mapper Validation**: Hotspots can obtain an additional 0.25 for validation by a Secure Mapper from NOVA. Each unique Secure Mapper contributes a separate 0.25. However, one Mapper can only revalidate a hotspot once every 90 days. This revalidation supersedes the previous 0.25 score from that Mapper.
-4. **Hex Boosting Eligibility**: While a trust score nearing 1 implies a highly credible hotspot, the precise threshold for Hex Boosting remains undetermined.
-5. **Oracle Oversight**: An Oracle, acting strictly within the boundaries of this HIP, will monitor trust scores.
+4. **Hex Boosting Eligibility**: While a trust score nearing 1 implies a highly credible hotspot, the the threshold to participate in Hex Boosting is 0.5.
+
 
 ## Unresolved Questions
-
-- What score is mandatory for Hex Boosting participation?
+- How can we verify and validate Secure Mappers are from unique parties?
 - How can hotspots challenge their trust scores or findings from a Secure Mapper?
 
 ## Deployment Impact
